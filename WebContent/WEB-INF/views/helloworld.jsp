@@ -9,6 +9,6 @@
 	<p>Hello World Spring</p>
 	<br />
 	<br />
-	<a href="bemvindo">Ir para pagina Bem VINDO</a>
+	<a href="bemvindo">Ir para pagina Bem VINDO1</a>
 </body>
 </html>
